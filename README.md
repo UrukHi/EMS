@@ -16,3 +16,8 @@ Updating/viewing user comments on the assigned regulations
 Out Scope
 Loading the employee list into the application
 Notifications on the status 
+
+
+
+
+docker run --name some-mysql -e MYSQL_ROOT_PASSWORD=password -e MYSQL_DATABASE=ems -e MYSQL_USER=ems  -p 3306:3306 -d mysql
