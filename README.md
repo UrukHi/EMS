@@ -1,5 +1,4 @@
 # EMS
-Employee Management System
 Employee Management System:
 
 The purpose of the software requirements document is to systematically capture requirements for the project and the “Employee Management System” to be developed. Both functional and non-functional requirements are captured in this document. It also serves as the input for project scoping. 
