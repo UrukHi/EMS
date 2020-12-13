@@ -20,4 +20,4 @@ Notifications on the status
 
 
 
-docker run --name some-mysql -e MYSQL_ROOT_PASSWORD=password -e MYSQL_DATABASE=ems -e MYSQL_USER=ems  -p 3306:3306 -d mysql
+`docker run --name some-mysql -e MYSQL_ROOT_PASSWORD=password -e MYSQL_DATABASE=ems -e MYSQL_USER=ems  -p 3306:3306 -d mysql`
