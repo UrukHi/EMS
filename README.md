@@ -23,3 +23,5 @@ Notifications on the status
 
 #### if you gonna run mysql in docker easiest way 
 `docker run --name some-mysql -e MYSQL_ROOT_PASSWORD=password -e MYSQL_DATABASE=ems -e MYSQL_USER=ems  -p 3306:3306 -d mysql`
+
+#### there are two different db is used on inmemory h2 for tests and mysql for runtime
