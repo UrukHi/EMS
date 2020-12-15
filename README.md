@@ -18,6 +18,8 @@ Loading the employee list into the application
 Notifications on the status 
 
 
+#### For running springboot with maven 
+`./mvnw spring-boot:run`
 
-
+#### if you gonna run mysql in docker easiest way 
 `docker run --name some-mysql -e MYSQL_ROOT_PASSWORD=password -e MYSQL_DATABASE=ems -e MYSQL_USER=ems  -p 3306:3306 -d mysql`
